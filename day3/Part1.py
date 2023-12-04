@@ -28,6 +28,8 @@ def findInteger(i, j):
 
 sumTot = 0
 numberPlacement = 0
+# Precisa criar algum tipo de regra pra ir tirando os números daqui, um contador até 3 pra tirar o último, ir retirando
+# conforme passa, contar até 2, sla
 previousNum = []
 currentNum = 0
 for i in inputDict:
